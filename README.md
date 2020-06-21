@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Website URL
+https://singh9267-covid19.herokuapp.com/
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
